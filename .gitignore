@@ -1,13 +1,11 @@
 HELP.md
-target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### STS ###
+### STS (Spring Tool Suite)###
 .apt_generated
 .classpath
-.factorypath
 .project
 .settings
 .springBeans
@@ -178,9 +176,6 @@ local.properties
 # TeXlipse plugin
 .texlipse
 
-# STS (Spring Tool Suite)
-.springBeans
-
 # Code Recommenders
 .recommenders/
 
@@ -196,8 +191,6 @@ local.properties
 # Uncomment this line if you wish to ignore the project description file.
 # Typically, this file would be tracked if it contains build/dependency configurations:
 #.project
-.classpath
-.project
 .mvn/
 mvnw
 mvnw.*
